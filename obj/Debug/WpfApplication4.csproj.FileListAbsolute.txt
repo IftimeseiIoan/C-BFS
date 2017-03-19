@@ -1,0 +1,34 @@
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\MahApps.Metro.dll
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\System.Windows.Interactivity.dll
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\MahApps.Metro.xml
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+c:\users\yoyo\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe.config
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\Breadth-first search (BFS)-Parcurgerea in latime.pdb
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\MahApps.Metro.dll
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\MahApps.Metro.xml
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\App.baml
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime_MarkupCompile.cache
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.g.resources
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.pdb

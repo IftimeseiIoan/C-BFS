@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\bin\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe.config
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe
+D:\Documents\Visual Studio 2012\Projects\WpfApplication4\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.pdb
+D:\Documents\Visual Studio 2012\Projects\Atestat\bin\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe.config
+D:\Documents\Visual Studio 2012\Projects\Atestat\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.exe
+D:\Documents\Visual Studio 2012\Projects\Atestat\obj\Debug\Breadth-first search (BFS)-Parcurgerea in latime.pdb
